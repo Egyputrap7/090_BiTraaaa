@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/Egyputrap7/090_BiTra/issues/1#issue-1770988897
+![Usecase BiTra](https://github.com/Egyputrap7/090_BiTra/assets/96332093/a24de635-19c7-4aad-b5c1-b8f67649ebc9)

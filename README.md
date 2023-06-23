@@ -22,4 +22,7 @@ Use Case
 Flowchart Admin
 ![Flowchart Admin](https://github.com/Egyputrap7/090_BiTra/assets/96332093/14d75f43-77be-44aa-b232-161230d87031)
 
+Flowchart User
+![Flowchart User](https://github.com/Egyputrap7/090_BiTra/assets/96332093/ea474798-55e1-43c5-acda-04ed1604afcc)
+
 
